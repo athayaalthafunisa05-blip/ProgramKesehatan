@@ -1,0 +1,13 @@
+{
+  "name": "gizicam-ai-food-scanner",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "netlify dev",
+    "serve": "npx serve ."
+  },
+  "devDependencies": {
+    "netlify-cli": "^23.0.0"
+  }
+}

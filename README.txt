@@ -1,0 +1,1 @@
+File JavaScript utama tersedia di folder ini.
